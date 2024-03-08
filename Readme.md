@@ -1,5 +1,5 @@
 ### YouTube Comment Scraper
-### Dev By Adidev666(ADITYA DAS)
+### Dev By Adidev66
 ### Follow and Support me on Github 
  
 **Description:**
